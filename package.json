@@ -1,0 +1,17 @@
+{
+  "name": "myowntest",
+  "version": "0.0.1",
+  "description": "Start of a Moose importer for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arol Gbeto-Fia",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/node": "^14.14.37",
+    "ts-morph": "^9.1.0",
+    "ts-node": "^9.1.1"
+  }
+}
